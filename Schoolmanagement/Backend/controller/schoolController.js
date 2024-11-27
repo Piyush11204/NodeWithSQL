@@ -1,4 +1,4 @@
-const db = require('../db/db.js');
+const db = require('../DB/db.js');
 
 // Add School Controller
 exports.addSchool = async (req, res) => {
